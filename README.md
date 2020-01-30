@@ -29,7 +29,7 @@ Participants will work in cross-functional teams, tackle one or more (but not li
 6.	Fire prediction
 
 # Datasets
-In the following list you can find suggested datasets for obtaining satellite image data, air quality, trees, and more. If there are more datasets relevant for the, feel free to **open a new issue** and we'll add it to the list.
+In the following list you can find suggested datasets for obtaining satellite image data, air quality, trees, and more. If there are more datasets relevant for the challenge, feel free to **open a new issue** and we'll add it to the list.
 
 -	GEDI Ecosystem LiDAR: High resolution laser ranging of Earth’s forests and topography from the International Space Station
     - https://gedi.umd.edu/data/download/
