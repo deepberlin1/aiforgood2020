@@ -49,13 +49,13 @@ In the following list you can find suggested datasets for obtaining satellite im
 -   [Copernicus Emergency Management Service](https://emergency.copernicus.eu/), providing information for emergency response for different disasters.
 
 ## Papers of interest
-- Luetjens, B., Liebenwein, L., & Kramer, K. (2019). Machine Learning-based Estimation of Forest Carbon Stocks to increase Transparency of Forest Preservation Efforts. https://arxiv.org/abs/1912.07850.
-- Hou, X., Wang, B., Hu, W., Yin, L., & Wu, H. (2019). SolarNet: A Deep Learning Framework to Map Solar Power Plants in China from Satellite Imagery. https://arxiv.org/abs/1912.03685.
-- Victor Schmidt, A. L. (2019). Visualizing the Consequences of Climate Change Using Cycle-Consistent Adversarial Networks. https://arxiv.org/abs/1905.03709.
-- Ramachandra, V. (2019). Causal inference for climate change events from satellite image time series using computer vision and deep learning. https://arxiv.org/abs/1910.11492.
-- Carrasco, J., Pais, C., Shen, Z.-J. M., & Weintraub, A. (2019). Adjusting Rate of Spread Factors through Derivative-Free Optimization: A New Methodology to Improve the Performance of Forest Fire Simulators. https://arxiv.org/abs/1909.05949.
+- Luetjens, B., Liebenwein, L., & Kramer, K. (2019). [Machine Learning-based Estimation of Forest Carbon Stocks to increase Transparency of Forest Preservation Efforts.](https://arxiv.org/abs/1912.07850)
+- Hou, X., Wang, B., Hu, W., Yin, L., & Wu, H. (2019). [SolarNet: A Deep Learning Framework to Map Solar Power Plants in China from Satellite Imagery.](https://arxiv.org/abs/1912.03685)
+- Victor Schmidt, A. L. (2019). [Visualizing the Consequences of Climate Change Using Cycle-Consistent Adversarial Networks.] (https://arxiv.org/abs/1905.03709)
+- Ramachandra, V. (2019). [Causal inference for climate change events from satellite image time series using computer vision and deep learning.](https://arxiv.org/abs/1910.11492)
+- Carrasco, J., Pais, C., Shen, Z.-J. M., & Weintraub, A. (2019). [Adjusting Rate of Spread Factors through Derivative-Free Optimization: A New Methodology to Improve the Performance of Forest Fire Simulators.](https://arxiv.org/abs/1909.05949)
 - Subramanian, S. G., & Crowley, M. (2018). [Using Spatial Reinforcement Learning to Build Forest Wildfire Dynamics Models from Satellite Images](https://www.researchgate.net/publication/324272871_Using_Spatial_Reinforcement_Learning_to_Build_Forest_Wildfire_Dynamics_Models_From_Satellite_Images). Frontiers in ICT.
 
-For a more general overview of opportunities for tackling climate change with machine learning, the paper "Tackling Climate Change with Machine Learning" by a group of renowned researchers (https://www.climatechange.ai/) presents several cases: https://arxiv.org/abs/1906.05433v2.
+For a more general overview of opportunities for tackling climate change with machine learning, the paper ["Tackling Climate Change with Machine Learning"](https://arxiv.org/abs/1906.05433v2) by a group of renowned researchers (https://www.climatechange.ai/) presents several cases.
 
 *Know of good academic resources relevant for the topic of the Hackathon? Share it on a new issue.* 
