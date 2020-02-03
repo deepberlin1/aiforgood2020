@@ -31,7 +31,7 @@ Participants will work in cross-functional teams, tackle one or more (but not li
 # Datasets
 In the following list you can find suggested datasets for obtaining satellite image data, air quality, trees, and more. If there are more datasets relevant for the challenge, feel free to **open a new issue** and we'll add it to the list.
 
--	[EDI Ecosystem LiDAR](ttps://gedi.umd.edu/data/download/): High resolution laser ranging of Earth’s forests and topography from the International Space Station:
+-	[EDI Ecosystem LiDAR](https://gedi.umd.edu/data/download/): High resolution laser ranging of Earth’s forests and topography from the International Space Station:
     - An account has to be created: https://urs.earthdata.nasa.gov/users/new
 -	[Copernicus Conventional Data Access Hubs](https://www.copernicus.eu/en/access-data/conventional-data-access-hubs)
     - [Example](https://land.copernicus.eu/imagery-in-situ)
