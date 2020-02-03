@@ -31,26 +31,22 @@ Participants will work in cross-functional teams, tackle one or more (but not li
 # Datasets
 In the following list you can find suggested datasets for obtaining satellite image data, air quality, trees, and more. If there are more datasets relevant for the challenge, feel free to **open a new issue** and we'll add it to the list.
 
--	GEDI Ecosystem LiDAR: High resolution laser ranging of Earth’s forests and topography from the International Space Station
-    - https://gedi.umd.edu/data/download/
-    - Create account: https://urs.earthdata.nasa.gov/users/new
--	Copernicus Conventional Data Access Hubs
-    - https://www.copernicus.eu/en/access-data/conventional-data-access-hubs
-    - Example: https://land.copernicus.eu/imagery-in-situ
-    - Cloud-based: https://www.copernicus.eu/en/access-data/dias
-    - European Air Quality – Atmosphere Monitoring Service: http://macc-raq-op.meteo.fr/index.php?category=ensemble&subensemble=hourly_ensemble&date=LAST&calculation-model=ENSEMBLE&species=o3&level=SFC&offset=000v
--	Waterbase – water quality from EU Open Data Portal
-    - https://data.europa.eu/euodp/data/dataset/data_waterbase-water-quality
--	NASA’s “Modern-Era Retrospective analysis for research and Applications V.2”
-    - https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/
--	Some data on renewable energy capacity from Renewables.ninja project
-    - https://www.renewables.ninja/downloads
--	Global Tree Search database of Tree Species
-    - https://tools.bgci.org/global_tree_search.php
--	The World Bank: World Carbon Stocks data
-    - https://datacatalog.worldbank.org/dataset/world-carbon-stocks
--	Fire Information For Resource Management System (FIRMS) from NASA
-    - https://firms.modaps.eosdis.nasa.gov/
+-	[EDI Ecosystem LiDAR](ttps://gedi.umd.edu/data/download/):High resolution laser ranging of Earth’s forests and topography from the International Space Station:
+    - An account has to be created: https://urs.earthdata.nasa.gov/users/new
+-	[Copernicus Conventional Data Access Hubs](https://www.copernicus.eu/en/access-data/conventional-data-access-hubs)
+    - [Example](https://land.copernicus.eu/imagery-in-situ)
+    - [Cloud-based](https://www.copernicus.eu/en/access-data/dias)
+    - [European Air Quality – Atmosphere Monitoring Service](http://macc-raq-op.meteo.fr/index.php?category=ensemble&subensemble=hourly_ensemble&date=LAST&calculation-model=ENSEMBLE&species=o3&level=SFC&offset=000v)
+-	[Waterbase – water quality from EU Open Data Portal](https://data.europa.eu/euodp/data/dataset/data_waterbase-water-quality)
+-	[NASA’s “Modern-Era Retrospective analysis for research and Applications V.2”](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/)
+-	[Some data on renewable energy capacity from Renewables.ninja project](https://www.renewables.ninja/downloads)
+-	[Global Tree Search database of Tree Species](https://tools.bgci.org/global_tree_search.php)
+-	[The World Bank: World Carbon Stocks data](https://datacatalog.worldbank.org/dataset/world-carbon-stocks)
+-   [Fire Information For Resource Management System (FIRMS) from NASA](https://firms.modaps.eosdis.nasa.gov/)
+-   [EDO - European Drought Observatory](https://edo.jrc.ec.europa.eu/edov2/php/index.php?id=1000)
+    - [EDO's MapViewer](https://edo.jrc.ec.europa.eu/gdo/php/index.php?id=2001)
+-   [EFFIS: European Forest Fire Information System](https://effis.jrc.ec.europa.eu/)
+-   [Copernicus Emergency Management Service](https://emergency.copernicus.eu/), providing information for emergency response for different disasters.
 
 ## Papers of interest
 - Luetjens, B., Liebenwein, L., & Kramer, K. (2019). Machine Learning-based Estimation of Forest Carbon Stocks to increase Transparency of Forest Preservation Efforts. https://arxiv.org/abs/1912.07850.
