@@ -12,6 +12,8 @@ Satellite imagery and remote sensor data present an opportunity to develop machi
 - Accurate risk assessments and prevention of forest fires
 - Estimating carbon stock
 - Categorisation of trees and impact on air quality in the area and other variables
+- Developing effective mechanisms of fire resilience
+- Insights for sustainable development 
 
 ## The Challenge
 - Build machine learning models that would predict the likelihood of a severe disaster occurring: bush fires, etc.
