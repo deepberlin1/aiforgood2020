@@ -61,3 +61,14 @@ In the following list you can find suggested datasets for obtaining satellite im
 For a more general overview of opportunities for tackling climate change with machine learning, the paper ["Tackling Climate Change with Machine Learning"](https://arxiv.org/abs/1906.05433v2) by a group of renowned researchers (https://www.climatechange.ai/) presents several cases.
 
 *Know of good academic resources relevant for the topic of the Hackathon? Share it on a new issue.* 
+
+# Instructions
+
+Our partner AWS will provide credits for each team to work on AWS Sagemaker to build, train, and deploy ML models quickly.
+
+What to do? 
+
+- Create an AWS before the hackathon weekend
+- You will receive credit codes via your team channel on Slack on the first day of the hackathon
+- Instructions for pre-work and setup of Sagemaker can be found [here](https://github.com/deepberlin1/deep-fake-detection-challenge)
+- In the previous instructions, one of them is to raise the Sagemaker default limits for GPU instances. This **takes 2 working days** and it's important that you do this **before the hackathon**
